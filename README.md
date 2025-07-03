@@ -1,1 +1,1 @@
-# python-for-ai
+# Python For AI
